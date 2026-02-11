@@ -1,8 +1,5 @@
-# cmput404.github.io
-
-## Pull Requests
-
-My github notifications are flooded and useless. Please contact via the contact form when you make a PR.
+A mock social media app for fitness enthusiasts!
+Built with love by a team of CS students at the University of Alberta
 
 ## Installation
 
@@ -27,3 +24,4 @@ Alternatively, you can use `make github`.
 
 Licensed under Apache v2 [LICENSE](./LICENSE).
 Static site generated using [Pelican](https://github.com/getpelican/pelican).
+
